@@ -1,5 +1,5 @@
 /**
- * getStudentIdsSum: sum of all student ids using reduce
+ * getStudentIdsSum: sum all student ids in array of objects using reduce
  * @param {Array<Object>} studentsLists
  * @return {number}
  */
