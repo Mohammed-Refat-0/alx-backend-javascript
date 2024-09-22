@@ -1,7 +1,7 @@
 // displayMessage: prints in STDOUT the string argument
 
 function displayMessage(text) {
-  process.std.write(text);
+  console.log(text);
 }
 
 module.exports = displayMessage;
