@@ -1,6 +1,6 @@
 // basic express app
 
-const app = require('express').Express();
+const app = require('express').express();
 
 app.get('/', (req, res) => {
   res.send('Hello Holberton School!');
